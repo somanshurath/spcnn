@@ -1,5 +1,5 @@
 # Sequence Prediction with CNNs: A Novel Machine Learning Approach to Morphology
-
+Authors: Deepankur Jain, Somanshu Rath, Param Gandhi, Saksham
 ## Abstract
 
 Morphological operations like dilation and erosion are foundational in binary image processing, yet their sequential application to transform one binary matrix into another remains an underexplored domain. This study investigates whether a convolutional neural network (CNN) can predict the sequence of transformations required to iteratively transform a binary input matrix \( A \) into a target output matrix \( B \). The transformations are defined over a hypothesis class comprising 16 distinct operations, derived from applying dilation and erosion with eight unique structuring elements. 
